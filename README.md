@@ -1,6 +1,6 @@
 # db-biglietteria-ferroviaria
 
-Questo repository contiene il dumo del database progettato per la gestione di una biglietteria ferroviaria, svilupato come progetto universitario.
+Questo repository contiene il dump del database progettato per la gestione di una biglietteria ferroviaria, sviluppato come progetto universitario.
 
 ## Contenuto
 - 'tabelle.sql' -> file che contiene la definizione delle tabelle.
